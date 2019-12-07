@@ -1,0 +1,8 @@
+{
+	"adb_mac": "/config/adb",
+	"adb_win": "/config/adb.exe",
+	"jar_file": "/config/bundletool.jar",
+	"ks_file": "/config/AndroidTestKey.jks",
+	"ks_alias": "key",
+	"ks_pass": "pass:111111"
+}
