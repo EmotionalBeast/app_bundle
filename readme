@@ -1,1 +1,7 @@
 adb tools to install aab package
+
+将要安装的aab包放入workspace文件夹
+在双击执行app_install_mac.py.command脚本
+
+注意：
+workspace文件同时只能存在一个aab包
